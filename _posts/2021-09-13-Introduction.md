@@ -31,5 +31,20 @@ The airport averages around 37 and 97 days of snow and precipitation, respective
 
   ![2019_BarraTasto_MI_01](https://user-images.githubusercontent.com/90487385/133044945-60bb0bd8-e035-4b7a-9c2a-1112b235af0f.jpg)
   ![Alison-Mazurek_Penelope_Composite](https://user-images.githubusercontent.com/90487385/133045051-094a94de-0eda-4cb9-9de4-bef945e2087d.jpg)
-   
+  ![FLEXFORM_ASOLO_SECTIONAL](https://user-images.githubusercontent.com/90487385/133045426-63dc750b-a645-4257-a494-09b76781c92b.jpg)
+  ![full_9_Skyfold_Stepped_and_Sloped](https://user-images.githubusercontent.com/90487385/133045655-9993f3fc-7664-47b7-b4b0-6b548823cf76.jpg)
+  ![Image_via_NY_Engineers](https://user-images.githubusercontent.com/90487385/133045701-c2642605-3037-4b94-84e0-b5b1a45516c4.jpg)
+
+[Reference]
+
+1.	https://www.slc.gov/sustainability/history/ 
+2.	
+3.	https://betterutah.org/utahs-waste-problem/
+4.	
+5.	https://www.harvestparkgroup.com/blog/top-10-neighborhoods-salt-lake-city/\
+6.	
+7.	https://www.utahbusiness.com/utahs-recycling-industry/
+
+
+
 
