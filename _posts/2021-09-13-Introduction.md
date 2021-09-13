@@ -38,12 +38,9 @@ The airport averages around 37 and 97 days of snow and precipitation, respective
 [Reference]
 
 1.	https://www.slc.gov/sustainability/history/ 
-2.	
-3.	https://betterutah.org/utahs-waste-problem/
-4.	
-5.	https://www.harvestparkgroup.com/blog/top-10-neighborhoods-salt-lake-city/\
-6.	
-7.	https://www.utahbusiness.com/utahs-recycling-industry/
+2.	https://betterutah.org/utahs-waste-problem/
+3.	https://www.harvestparkgroup.com/blog/top-10-neighborhoods-salt-lake-city/\
+4.	https://www.utahbusiness.com/utahs-recycling-industry/
 
 
 
