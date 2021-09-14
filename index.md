@@ -26,3 +26,8 @@ The project requires the following:
 ● Bathroom space including sink, shower, and toilet at a minimum
 
 ● Spaces to accommodate storage needs
+
+
+
+
+[comment]: <> (please refer to _includes/projects_.html and _incluedes/about_.html to add your project and personal photo)
