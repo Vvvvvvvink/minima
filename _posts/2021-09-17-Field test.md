@@ -1,4 +1,4 @@
-I used the school’s site to conduct site tests, taking into account factors such as changes in lighting and building orientation at a ratio of 1:1, and plotted the actual building plan on the ground, as shown in the figure below.
+I used the campus’s site to conduct field tests, taking into account factors such as changes in lighting and building orientation at a scale of 1:1, and plotted the actual building plan on the ground, as shown in the figure below.
 
 Based on the field test, some unfeasible ideas were detected, and on the basis of this test, I made more changes to the plan.
 
