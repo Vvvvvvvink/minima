@@ -19,3 +19,9 @@ Rain: averages 20 inches of rain a year
 Snow: averages 54 inches of snow a year
 
 ![Climate](https://user-images.githubusercontent.com/90487385/135097436-db632998-3719-4104-bd56-e4f8aef9c901.png)
+
+**Four major land-use types in Salt Lake City:**
+
+Commercial / Industrial / Educational / Residential.
+
+On average, for the areas studied, vegetation covers about 46% of the area (ranging 44–51%), roofs cover about 21% (ranging 15–24%), and paved surfaces about 26% (ranging 21–28%). For the most part, trees shade streets, parking lots, grass, and sidewalks. In most non-residential areas, paved surfaces cover 46–66% of the area. In residential areas, on average, paved surfaces cover about 32% of the area. 
