@@ -1,4 +1,4 @@
-Climate in Salt Lake City, Utah
+**Climate in Salt Lake City, Utah**
 
 Salt Lake City, Utah gets 20 inches of rain, on average, per year. The US average is 38 inches of rain per year.
 
