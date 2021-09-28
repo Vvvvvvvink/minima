@@ -11,7 +11,11 @@ Salt Lake City gets some kind of precipitation, on average, 91 days per year. Pr
 Weather Highlights
 
 Summer High: the July high is around 91 degrees
+
 Winter Low: the January low is 23
+
 Rain: averages 20 inches of rain a year
+
 Snow: averages 54 inches of snow a year
+
 ![Climate](https://user-images.githubusercontent.com/90487385/135097436-db632998-3719-4104-bd56-e4f8aef9c901.png)
