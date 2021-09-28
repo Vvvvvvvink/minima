@@ -1,4 +1,14 @@
-**Climate in Salt Lake City, Utah**
+**Geographic location**
+
+Salt Lake is the largest metropolitan area in Utah. Salt Lake is used to refer to both the city and the county. The city is bordered by the Great Salt Lake and the snow-capped Wasatch Range. Meanwhile, the county stretches from the suburbs of North Salt Lake to Bluffdale and is ringed by the Oquirrh (pronounced “oaker”) and Wasatch ranges.
+
+![位置](https://user-images.githubusercontent.com/90487385/135102830-eef5ddb5-8523-4e8e-8434-c1cc83a4a8a8.png)
+
+Salt Lake lies in a mountain valley with the Wasatch Mountains to the east and north, and the Oquirrh (pronounced “oaker”) Mountains to the west. State Street runs north to south at the bottom of the valley floor. The area was once covered by the ancient Lake Bonneville. This huge lake once stretched across Utah, Nevada, and Idaho. The eastern parts of the city were built on ancient beaches of this lake and are now called, “benches” in the foothills of the Wasatch Mountains. The Great Salt Lake is the last remaining remnant of Lake Bonneville. Its shores form the northwest border of Salt Lake.
+
+**Climate**
+
+Salt Lake is an arid mountain desert. The air is thin, dry, and ranges between hot and freezing throughout the year. The area does experience four full seasons. 
 
 Salt Lake City, Utah gets 20 inches of rain, on average, per year. The US average is 38 inches of rain per year.
 
@@ -20,7 +30,7 @@ Snow: averages 54 inches of snow a year
 
 ![Climate](https://user-images.githubusercontent.com/90487385/135097436-db632998-3719-4104-bd56-e4f8aef9c901.png)
 
-**Four major land-use types in Salt Lake City:**
+**Four major land-use types:**
 
 Commercial / Industrial / Educational / Residential.
 
