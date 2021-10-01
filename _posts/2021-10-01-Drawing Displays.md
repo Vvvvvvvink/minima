@@ -1,3 +1,13 @@
+    **Floor Area (in both m² and sf): **36.4㎡ and 391.8 ft²
+
+    **Interior Volume:127.4m³**
+
+    **Site Address/Type:**
+
+    **Material/Construction/Assembly: Small detached house**
+
+    **Typical Owner: Environmentalist**
+
 **[Site Analysis]**
 
 -- Geographic location
