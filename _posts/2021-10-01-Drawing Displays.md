@@ -93,6 +93,11 @@ Recyclable building, a “home” created in a garbage dump.
 
 
 
+
+**[Gif]**
+
+![ISO](https://user-images.githubusercontent.com/90487385/135560817-84c2c8d2-7863-4369-b302-c42b85941f29.gif)
+
 **[Plan]**
 
 ![1633058180(1)](https://user-images.githubusercontent.com/90487385/135560012-b5c64bc3-d1e5-4fba-bbb2-7854a77125b8.png)
@@ -109,9 +114,6 @@ Recyclable building, a “home” created in a garbage dump.
 
 ![section渲染2](https://user-images.githubusercontent.com/90487385/135560335-6817b253-2492-406a-9da6-63a8dc3dc072.png)
 
-**[Gif]**
-
-![ISO](https://user-images.githubusercontent.com/90487385/135560817-84c2c8d2-7863-4369-b302-c42b85941f29.gif)
 
 
 
