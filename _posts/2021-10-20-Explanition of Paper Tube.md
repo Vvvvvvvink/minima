@@ -31,6 +31,7 @@ Chinese traditional craft may give Shigeru Ban an enlightenment on paper waterpr
  Connection
 
 Shigeru Ban's paper architecture can be divided into array type, grid curved surface type and roof frame type according to the way of structural formation and structural connection.
+
 ![post5](https://user-images.githubusercontent.com/90487385/138195816-7da7a0fa-5a0f-471a-9521-e1257197145e.jpg)
 ![post3](https://user-images.githubusercontent.com/90487385/138195826-9f09e638-9155-408e-9f4e-366e9611929a.jpg)
 ![post4](https://user-images.githubusercontent.com/90487385/138195828-5a71882c-6aa3-4de0-9901-6bec26ef77b3.jpg)
