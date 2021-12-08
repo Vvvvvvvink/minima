@@ -54,6 +54,10 @@ theme: minima
 minima:
   skin: dark
 
+header_pages:
+ - head.md
+ - about.md
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
